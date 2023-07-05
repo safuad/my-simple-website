@@ -12,3 +12,8 @@ div{
     margin: 20%;
     padding: 10px;
 }
+SPAN{text-shadow: 3px salmon;
+     color: orange;
+     background-color: black;
+     font-size: larger;
+}
