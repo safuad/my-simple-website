@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: brown;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+p{
+    background-color: bisque;
+}
+div{
+    border: 1px solid black;
+}
