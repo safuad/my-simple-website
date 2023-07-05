@@ -9,4 +9,6 @@ p{
 }
 div{
     border: 1px solid black;
+    margin: 20%;
+    padding: 10px;
 }
